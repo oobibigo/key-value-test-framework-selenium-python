@@ -6,15 +6,20 @@
 ### 使用
 #### 环境
 1 创建UI元素配置文件 SalesElements.json
+
 2 设置环境相关 Setting.json
+
 #### 脚本
 通过引入模块 from TestFramework import commDriver
 初始化:
 cd = commDriver.CommDriver()
+
 访问起始页:
 cd.getdriver().get(self.cd.get_elementconfig().homepage)
+
 执行UI脚本操作
 
 新的脚本类似:
 cd.getelement('ui元素ID').action()#默认click
+
 cd.getelement('ui元素ID').action('元素对应测试数')
