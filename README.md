@@ -7,10 +7,11 @@
 #### 环境
 1 创建UI元素配置文件 SalesElements.json
 
-2 设置环境相关 Setting.json
+2 设置环境相关 Setting.json , 包括, 日志,元素配置文件,chromewebdriver位置等
 
 #### 脚本
 通过引入模块from TestFramework import commDriver
+
 初始化:
 
 cd = commDriver.CommDriver()
