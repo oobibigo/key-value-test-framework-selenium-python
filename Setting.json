@@ -1,0 +1,7 @@
+{
+  "testpath": "E:\\TestRunResult",
+  "testlogpath": "E:\\TestRunResult\\",
+  "testimgpath": "E:\\TestRunResult\\",
+  "webelementpath": "E:\\pySelenium\\SocialBird\\SocialsalesTest\\SalesElements.json",
+  "browserdriverpath": "E:\\pySelenium\\chromedriver.exe"
+}

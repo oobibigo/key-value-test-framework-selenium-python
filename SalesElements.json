@@ -1,0 +1,28 @@
+{
+	"homepage":"http://www.baidu.com","elements":[
+		{
+			"eid":"searchbtn","iframe":"","windows":"","verifi_att":"value","verifi_value":"百度一下","action":"click","actionvalue":"","attribute":[
+				{
+					"id":"su","name":"","linktext":"","tagname":"","classname":"","xpath":"","css_selector":"","att":"","attvalue":"","text":""
+				}
+			]
+		},
+		{
+			"eid":"searchinput","iframe":"","windows":"","verifi_att":"","verifi_value":"","action":"send","actionvalue":"social","attribute":[
+				{
+					"id":"kw","name":"","linktext":"","tagname":"","classname":"","xpath":"","css_selector":"","att":"","attvalue":"","text":""
+				}
+			]
+		},
+		{
+			"eid":"ruomilink","iframe":"","windows":"","verifi_att":"","verifi_value":"","action":"click","actionvalue":"thedz","attribute":[
+				{
+					"id":"u1","name":"","linktext":"","tagname":"","classname":"","xpath":"","css_selector":"","att":"","attvalue":"","text":""
+				},
+				{
+					"id":"","name":"","linktext":"糯米","tagname":"","classname":"","xpath":"","css_selector":"","att":"","attvalue":"","text":""
+				}
+			]
+		}
+	]
+}
